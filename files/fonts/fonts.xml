@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-201841417307251.swf" ttfurl="./files/fonts/font-0-0-201841417307251.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-201841417307724.swf" ttfurl="./files/fonts/font-0-1-201841417307724.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-201841417308267.swf" ttfurl="./files/fonts/font-0-2-201841417308267.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-201841417308704.swf" ttfurl="./files/fonts/font-0-3-201841417308704.ttf"/>
+    <font name="Tensentype FanXiaoGeKaiShuF" className="FskyFont_腾祥范笑歌楷书繁" url="./files/fonts/font-1-0-201841417309125.swf" ttfurl="./files/fonts/font-1-0-201841417309125.ttf"/>
+    <font name="Adobe Heiti Std R" className="FskyFont_AdobeHeitiStd_Regular" url="./files/fonts/font-2-0-201841417309536.swf" ttfurl="./files/fonts/font-2-0-201841417309536.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-3-0-201841417309951.swf" ttfurl="./files/fonts/font-3-0-201841417309951.ttf"/>
+    <font name="Adobe Heiti Std R" className="FskyFont_AdobeHeitiStd_Regular" url="./files/fonts/font-2-0-201841417309536.swf" ttfurl="./files/fonts/font-2-0-201841417309536.ttf"/>
+  </fonts>
+</data>
